@@ -1,0 +1,12 @@
+{
+    "CanRandomlySpeak": [
+        {
+            "Value": "False"
+        }
+    ],
+    "CanTroll": [
+        {
+            "Value": "False"
+        }
+    ]
+}

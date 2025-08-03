@@ -1,0 +1,35 @@
+{
+    "API Keys": [
+        {
+            "Open AI API KEY": "Paste Here in Quotes",
+            "Fish Audio API KEY": "Paste Here in Quotes"
+        }
+    ],
+    "TTS Voice ID": [
+        {
+            "Voice ID": "ee885900b0874d12b1c3439d1e56cc95"
+        }
+    ],
+    "Delay Between Bot Speaking and Trolling (in seconds)": [
+        {
+            "randomSpeakMin": 150,
+            "randomSpeakMax": 300
+        },
+        {
+            "trollMin": 150,
+            "trollMax": 300
+        }
+    ],
+    "Troll Config": [
+        {
+            "minimumEffectTime": 30,
+            "maximumEffectTime": 90,
+            "minimumEffectPower": 1,
+            "maximumEffectPower": 5
+        },
+        {
+            "minimumTpAirDistance": 5,
+            "maximumTpAirDistance": 20
+        }
+    ]
+}
