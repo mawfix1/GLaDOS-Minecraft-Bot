@@ -256,7 +256,7 @@ with minescript.EventQueue() as event_queue:
                 command = pickedTroll + pickedSummonMob + " ~ ~ ~"
             elif pickedTroll == "drop item":
                 command = "Forced player to drop the item in their hand"
-                NewChat(command, "GLaDOS used a command on player")
+                NewChat(command, "GLaDOS Action")
 
                 minescript.player_press_drop(True)
                 minescript.player_press_drop(False)
@@ -264,7 +264,7 @@ with minescript.EventQueue() as event_queue:
             else: 
                 command = pickedTroll
             try:
-                NewChat(command, "GLaDOS used a command on player")
+                NewChat(command, "GLaDOS Action")
                 minescript.execute(command)
             except:
                 print("Error: ", command)
