@@ -1,7 +1,7 @@
 
 # GLaDOS Minecraft AI Bot
 
-By using OpenAI, Fish Audio, and Minescript, this GLaDOS look alike can comment on the players game, talk to the player through game chat, and grief them at random intervals.
+By using OpenAI, Fish Audio, and Minescript, this GLaDOS look alike can comment on the players game, talk to the player through game chat, and interact with them at random intervals
 
 **IMPORTANT:** This bot requires a API Key from OpenAI and Fish Audio, if you don't have one you won't be able to use this bot. Your OpenAI account will also need to be verified as this bot uses the gpt-4.1-nano LLM.
 
